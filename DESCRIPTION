@@ -1,0 +1,11 @@
+Package: bartlett
+Title: Bartlett em modelos com erros nas variaveis
+Version: 0.0.1
+Authors@R: c(person("Kaique", "Souza", email = "kaiquefhds@gmail.com", role = c("aut", "cre")),
+             person("Tatiane", "Silva", email = "tafename@gmail.com", role = "ctb"))
+Description: Pacote para aplicação de um modelo com erro
+             nas variaveis com a correção de Bartlett.
+Depends: R (>= 3.3.0)
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.1.1
