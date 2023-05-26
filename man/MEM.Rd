@@ -5,7 +5,7 @@
 \title{Bartlett correction in models with errors in variables}
 \usage{
 MEM(formula = y ~ x, lambda_x = F, lambda_e = F, beta_til = 1, Correction = T)
-}
+} 
 \arguments{
 \item{formula}{Declare x and y as a vector of numbers of the same size.}
 
